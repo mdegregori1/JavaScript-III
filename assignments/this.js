@@ -1,6 +1,6 @@
 /* The for principles of "this";
 * in your own words. explain the four principle for the "this" keyword below.
-*
+* test 
 * 1. Window Binding - The default that occurs whenever "this" is used to invoke a function without any specific rules, such as 'dot', 'call()', 'apply()', 'bind()', etc.". Unless specified otherwise, the function is invoked in, and pulls data from, the global scope (the entire browser).
 * 2. Implicit Binding - The most common form of binding, in which dot notation is used to invoke a function. More specifically, whatever is to the left of the dot becomes the direct content for 'this.'
 * 3. New Binding - Binding that allows you to essentially create a new object, and link it to a previous one by using the "this" keyword.

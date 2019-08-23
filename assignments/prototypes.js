@@ -25,7 +25,7 @@ GameObject.prototype.destroy = function(){
 }
 /*
   === CharacterStats ===
-  * healthPoints
+  * healthPoints test
   * takeDamage() // prototype method -> returns the string '<object name> took damage.'
   * should inherit destroy() from GameObject's prototype
 */
